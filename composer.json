@@ -1,0 +1,10 @@
+{
+    "name": "biodun/laravel-graph-ql",
+    "authors": [
+        {
+            "name": "Ajayi Adeyemi",
+            "email": "aajayiadeyemi@gmail.com"
+        }
+    ],
+    "require": {}
+}
